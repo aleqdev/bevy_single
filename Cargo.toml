@@ -3,6 +3,13 @@ name = "bevy_single"
 version = "0.1.0"
 edition = "2021"
 resolver = "2"
+license = "MIT OR Apache-2.0"
+description = "Package allows more convinient access to single entity from bevy query"
+readme = "README.md"
+repository = "https://github.com/aleqdev/bevy_single"
+keywords = ["bevy", "gamedev"]
+categories = ["game-development"]
+documentation = "https://docs.rs/bevy_single"
 
 [dependencies]
 bevy_ecs = "0.14.0"
