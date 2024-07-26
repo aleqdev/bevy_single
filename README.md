@@ -126,7 +126,7 @@ pub fn move_with_wasd(
 }
 ```
 
-## Example with SystemParam
+## Example with ParamSet
 
 Before using Single:
 ```rust
